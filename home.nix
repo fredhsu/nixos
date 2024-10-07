@@ -89,6 +89,11 @@
     sqlite
     gh
     unityhub
+    # Haskell
+    ghc
+    cabal-install
+    haskell-language-server
+    haskellPackages.hlint
 
     # AI
     ollama
